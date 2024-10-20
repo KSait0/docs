@@ -1,10 +1,10 @@
 # docs
 ## Тестовая документация
- - [Чек-лист](https://docs.google.com/spreadsheets/d/1-Juow5Rglp77InIpPVUFQCH4-pljhcTk7P4yOm-oOto/edit?usp=sharing)
- - [Тест-кейсы](https://app.qase.io/project/G8?author=267&previewMode=side&suite=117&tab=properties)
- - [Файл с тест-кейсами в формате pdf](https://github.com/user-attachments/files/16739639/Test.cases.G8-2024-08-25.pdf)
- - [Файл с отчётами о дефекте в формате xlsx](https://github.com/user-attachments/files/16741250/Bug.report.xlsx)
- - [Файл с информацией о тестовом прогоне в формате pdf](https://github.com/user-attachments/files/16741254/G8-Express%2Brun%2B2024_08_25.pdf)
+В процессе подготовки к проведению тестов работы веб-приложения ["Интернет-магазин"](https://demoshopping.ru/) и по результатам их проведения, мной была составлена тестовая документация:   
+ - [Чек-лист](https://docs.google.com/spreadsheets/d/1-Juow5Rglp77InIpPVUFQCH4-pljhcTk7P4yOm-oOto/edit?usp=sharing) - для проверки функциональных модулей: регистрация и авторизация, каталог товаров, управление корзиной, управление заказом. На основе требований к этим модулям. 
+ - [Тестовый набор (файл в формате pdf)](https://github.com/user-attachments/files/16739639/Test.cases.G8-2024-08-25.pdf) - тест-кейсы для проверки модуля регистрации и авторизации, соответсвенно требованиям к этому модулю.
+ - [Отчёт о дефекте (файл в формате xlsx)](https://github.com/user-attachments/files/16741250/Bug.report.xlsx) - список обнаруженных и оформленных дефектов в результате проведения тестов.
+ - [Отчёт о тестовом прогоне (файл в формате pdf)](https://github.com/user-attachments/files/16741254/G8-Express%2Brun%2B2024_08_25.pdf) - отчёт о результатах проведённых тестов.
  
 
 
